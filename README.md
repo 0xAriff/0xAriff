@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning stuffs
 - 💞️ I’m looking to collaborate on cyber-security
 - 📫 How to reach me? Reach me here!
-- ⚡ Fun fact: I don't anything.
+- ⚡ Fun fact: I don't know anything.
 
 <!---
 0xAriff/0xAriff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
